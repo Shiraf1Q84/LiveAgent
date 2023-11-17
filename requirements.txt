@@ -1,0 +1,8 @@
+streamlit
+streamlit_webrtc
+opencv-python-headless
+av
+python-dotenv
+openai
+pydub
+altair==4.2.2
